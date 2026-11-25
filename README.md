@@ -1,16 +1,13 @@
-## Hi there 👋
+## Jakub Andrzejewski
 
-<!--
-**kuband93/Kuband93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist in Warsaw. I work on credit risk models at ING Hubs Poland, and from 2027 I'm focusing on applying GenAI in risk.
 
-Here are some ideas to get you started:
+Before ING I spent four years at PwC developing, recalibrating and validating IFRS 9 models. Before that I worked in Warsaw start-ups on AR filters and ad tools for Facebook, which is where I got interested in data in the first place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I studied quantitative methods and advanced analytics (big data) at SGH Warsaw School of Economics.
+
+Mostly working in Python, SQL and SAS.
+
+This profile is where I put side projects on product analytics, experimentation and LLMs. Older repos are from my studies.
+
+[LinkedIn](https://www.linkedin.com/in/jakub-andrzejewski-37a7a3a9)
